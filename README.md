@@ -1,29 +1,30 @@
-# Ouriemchi Maroua
+Ouriemchi Maroua
 
-### 🎓 Étudiante Ingénieure en Management & Gouvernance des SI — ENSA Oujda
+Étudiante en Cycle Ingénieur — Management et Gouvernance des Systèmes d'Information
+ENSA Oujda | En recherche de stage d'été 2026
 
-Passionnée par l'informatique et ses différents domaines.
-En recherche de stage d'été 2026.
+Projets
 
----
+PFA — Prédiction d'Attrition Client
+Modèle prédictif de churn client combinant ML et Deep Learning — Python, Scikit-learn, TensorFlow
 
-## 🛠️ Projets
+GENIA-CARE 20.0
+Stratégie de cosmétique de précision basée sur l'IA : analyse SWOT, SI intelligent, modélisation
 
-- **PFA — Prédiction d'Attrition Client** : Modèle ML + Deep Learning — Python, Scikit-learn, TensorFlow
-- **GENIA-CARE 20.0** : Stratégie cosmétique basée sur l'IA — SWOT, Modélisation SI
-- **Gestion de Facturation Médicale** : Application web — HTML, CSS, JS, Bootstrap
-- **Gestion des Clubs Parascolaires** : Module Odoo — Python, PostgreSQL
-- **Chat Client-Serveur** : Architecture distribuée — Java, Java RMI
-- **Gestion des Stagiaires** : Interface Admin & Tuteur — HTML, CSS, JS, PHP
+Gestion de Facturation — Cabinet Médical
+Application web de facturation avec suivi patients et tableau de bord admin — HTML, CSS, JavaScript, Bootstrap
 
----
+Gestion des Clubs Parascolaires — Odoo
+Module de gestion des clubs : inscription, planification et suivi des présences — Python, Odoo, PostgreSQL
 
-## 💻 Compétences
+Gestion des Stagiaires
+Application web avec interface administrateur et interface tuteur — HTML, CSS, JavaScript, PHP
 
-Python · Java · JavaScript · SQL · HTML/CSS · Odoo · Pandas · Scikit-learn · MySQL · Git
+Chat Client-Serveur — Java RMI
+Application de messagerie temps réel en architecture distribuée — Java, Java RMI
 
----
+Compétences
+Python · Java · JavaScript · PHP · SQL · HTML · CSS · Pandas · Scikit-learn · Power BI · MySQL · Odoo · Git
 
-## 📬 Contact
-
-ouriemchimaroua6@gmail.com
+Contact
+ouriemchimaroua6@gmail.com · 0688-830291 · Oujda, Maroc
