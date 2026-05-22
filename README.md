@@ -25,3 +25,6 @@ Python · Java · JavaScript · PHP · SQL · HTML · CSS · Pandas · Scikit-le
 ## Contact
 
 ouriemchimaroua6@gmail.com
+## CV
+
+[Télécharger mon CV](./CV%20MAROUA%20OURIEMCHI.pdf)
