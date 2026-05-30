@@ -20,7 +20,7 @@ Chat Client-Serveur — Java RMI : Application de messagerie temps réel en arch
 
 ## Compétences
 
-Python · Java · JavaScript · PHP · SQL · HTML · CSS · Pandas · Scikit-learn · Power BI · MySQL · Odoo · Git
+Python · Java ·· SQL · HTML · CSS · Pandas · Scikit-learn · Power BI · MySQL · Odoo · Git
 
 ## Contact
 
