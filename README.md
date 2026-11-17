@@ -1,12 +1,12 @@
 # Maroua Ouriemchi
 
-### Étudiante en dernière année du cycle ingénieur | Data Analyst & Business Intelligence
+Étudiante en dernière année du cycle ingénieur | Data Analyst & Business Intelligence
 
-🎓 ENSA Oujda – Management et Gouvernance des Systèmes d'Information, option Data Analyst / Business Intelligence.
+ ENSA Oujda – Management et Gouvernance des Systèmes d'Information, option Data Analyst / Business Intelligence.
 
-📊 Passionnée par l'analyse et la valorisation des données, je m'intéresse particulièrement à la préparation des données, aux processus ETL, à la Business Intelligence et à la création de tableaux de bord pour faciliter la prise de décision.
+ Passionnée par l'analyse et la valorisation des données, je m'intéresse particulièrement à la préparation des données, aux processus ETL, à la Business Intelligence et à la création de tableaux de bord pour faciliter la prise de décision.
 
-🎯 **À la recherche d'un stage PFE en Data Analyst / Business Intelligence à partir de début février 2027.**
+ **À la recherche d'un stage PFE en Data Analyst / Business Intelligence à partir de début février 2027.**
 
 ## Projets Data
 
@@ -56,7 +56,8 @@ Préparation des commentaires des patients, classification des sentiments avec d
 
 ## Contact
 
-📧 ouriemchimaroua6@gmail.com
+ ouriemchimaroua6@gmail.com
+ 
 
 ## CV
 
