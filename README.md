@@ -59,4 +59,4 @@ Préparation des commentaires des patients, classification des sentiments avec d
 
 ## CV
 
-[Télécharger mon CV](./CV%20MAROUA%20OURIEMCHI.pdf)
+[Télécharger mon CV](./Maroua_ouriemchi.pdf)
