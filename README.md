@@ -1,30 +1,63 @@
-Ouriemchi Maroua
+# Maroua Ouriemchi
 
-## Étudiante en Cycle Ingénieur — Management et Gouvernance des SI, ENSA Oujda
+### Étudiante en dernière année du cycle ingénieur | Data Analyst & Business Intelligence
 
-Passionnée par l'informatique et ses différents domaines. En recherche de stage d'été 2026.
+🎓 ENSA Oujda – Management et Gouvernance des Systèmes d'Information, option Data Analyst / Business Intelligence.
 
-## Projets
+📊 Passionnée par l'analyse et la valorisation des données, je m'intéresse particulièrement à la préparation des données, aux processus ETL, à la Business Intelligence et à la création de tableaux de bord pour faciliter la prise de décision.
 
-PFA — Prédiction d'Attrition Client : Modèle prédictif de churn client combinant ML et Deep Learning — Python, Scikit-learn, TensorFlow
+🎯 **À la recherche d'un stage PFE en Data Analyst / Business Intelligence à partir de début février 2027.**
 
-GENIA-CARE 20.0 : Stratégie de cosmétique de précision basée sur l'IA — analyse SWOT, SI intelligent, modélisation
+## Projets Data
 
-Gestion de Facturation — Cabinet Médical : Application web de facturation avec suivi patients et tableau de bord admin — HTML, CSS, JavaScript, Bootstrap
+### Prédiction de l'attrition client (Churn) – Machine Learning
+Analyse des données clients et développement de modèles prédictifs pour identifier les risques de départ et les facteurs influençant la fidélisation.
 
-Gestion des Clubs Parascolaires — Odoo : Module de gestion des clubs : inscription, planification et suivi des présences — Python, Odoo, PostgreSQL
+**Technologies :** Python, Pandas, Scikit-learn, Machine Learning, Deep Learning.
 
-Gestion des Stagiaires : Application web avec interface administrateur et interface tuteur — HTML, CSS, JavaScript, PHP
+### Big Data – Analyse des produits Amazon UK
+Traitement et analyse de données avec Hadoop, Hive et Talend, puis création de tableaux de bord Power BI pour visualiser les résultats.
 
-Chat Client-Serveur — Java RMI : Application de messagerie temps réel en architecture distribuée — Java, Java RMI
+**Technologies :** Hadoop, HDFS, Hive, Talend, SQL, Power BI.
 
-## Compétences
+### Analyse des performances d'un centre d'appels médical
+Nettoyage et analyse des données d'appels, puis création de tableaux de bord interactifs pour suivre les KPI et les performances opérationnelles.
 
-Python · Java ·· SQL · HTML · CSS · Pandas · Scikit-learn · Power BI · MySQL · Odoo · Git
+**Technologies :** Excel, Python, Pandas, Power BI, DAX.
+
+### Analyse des sentiments des patients – NLP
+Préparation des commentaires des patients, classification des sentiments avec des techniques de Machine Learning et visualisation des résultats.
+
+**Technologies :** Python, Pandas, NLP, Scikit-learn, Power BI.
+
+## Autres projets
+
+**Gestion des clubs parascolaires – Odoo :** Développement d'un module de gestion des membres, activités et présences.
+
+**Gestion de facturation – Cabinet médical :** Développement d'une application web de gestion des dossiers et des factures.
+
+**Gestion des stagiaires :** Développement d'une application web avec interfaces administrateur et tuteur.
+
+## Compétences techniques
+
+**Data Analysis & BI :** SQL, Power BI, Pandas, NumPy, Matplotlib, DAX
+
+**ETL & Data Integration :** Pentaho Data Integration, Talend
+
+**Programmation :** Python, HTML, CSS, JavaScript
+
+**Machine Learning :** Scikit-learn, Deep Learning, NLP
+
+**Bases de données :** MySQL, PostgreSQL
+
+**Big Data :** Hadoop, HDFS, Hive
+
+**Outils :** Git, GitHub, VS Code, Odoo
 
 ## Contact
 
-ouriemchimaroua6@gmail.com
+📧 ouriemchimaroua6@gmail.com
+
 ## CV
 
 [Télécharger mon CV](./CV%20MAROUA%20OURIEMCHI.pdf)
