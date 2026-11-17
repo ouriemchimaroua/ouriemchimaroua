@@ -40,19 +40,17 @@ Préparation des commentaires des patients, classification des sentiments avec d
 
 ## Compétences techniques
 
-**Data Analysis & BI :** SQL, Power BI, Pandas, NumPy, Matplotlib, DAX
+**Data Analysis & BI :** SQL, Power BI, Pandas, NumPy
 
 **ETL & Data Integration :** Pentaho Data Integration, Talend
 
-**Programmation :** Python, HTML, CSS, JavaScript
+**Programmation :** Python, HTML, CSS
 
-**Machine Learning :** Scikit-learn, Deep Learning, NLP
+**Machine Learning :** Scikit-learn, NLP
 
-**Bases de données :** MySQL, PostgreSQL
+**Bases de données :** MySQ
 
-**Big Data :** Hadoop, HDFS, Hive
-
-**Outils :** Git, GitHub, VS Code, Odoo
+**Outils :** Git, GitHub, VS Code
 
 ## Contact
 
